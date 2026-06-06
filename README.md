@@ -456,3 +456,15 @@ Confirmed successful on Xiaomi AI Speaker L07A:
 * Chinese voice prompts can be replaced with neutral system melodies.
 
 No rootfs repack. No NAND flashing. No secure boot bypass needed.
+
+License
+
+This project is released under the MIT License.
+
+The repository contains only original documentation, helper scripts, and generated
+replacement system melodies.
+
+It does not contain original Xiaomi firmware, original Xiaomi audio assets,
+NAND/rootfs dumps, device tokens, private keys, or serial-number-specific data.
+
+See LICENSE for details.
