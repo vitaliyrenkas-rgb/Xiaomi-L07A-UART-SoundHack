@@ -1,0 +1,15 @@
+﻿*.log
+*.tmp
+*.bin
+*.img
+*.dump
+*.tar.gz
+pycache/
+.DS_Store
+Thumbs.db
+sound-vendor-full-extracted/
+sound-vendor/
+*.decoded
+*.raw
+*.hex
+
